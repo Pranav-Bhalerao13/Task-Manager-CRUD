@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDiEogOAujXY4TBmPXKiOF10KR766gfgWk",
+  apiKey: "your API key",
   authDomain: "task-manager-8272e.firebaseapp.com",
   projectId: "task-manager-8272e",
   storageBucket: "task-manager-8272e.firebasestorage.app",
